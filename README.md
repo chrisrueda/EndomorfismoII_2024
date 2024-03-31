@@ -17,7 +17,7 @@ A continuación, encontrarás un menú con hiperenlaces que te llevarán a difer
 
 - [Introducción al Curso](#introducción)
 - [Objetivos del Curso](#objetivos)
-- [Unidad 1: Modelos lineales y no lineales](unidad-1-repaso-de-endomorfismo-I.md)
+- [Unidad 1: Modelos lineales y no lineales](01_NLM)
 - [Unidad 2: Endomorfismos y Diagonalización](unidad-2-endomorfismos-y-diagonalización.md)
 - [Unidad 3: Teoremas y Aplicaciones de Endomorfismos](unidad-3-teoremas-y-aplicaciones-de-endomorfismos.md)
 - [Unidad 4: Endomorfismos en Espacios Infinitos](unidad-4-endomorfismos-en-espacios-infinitos.md)

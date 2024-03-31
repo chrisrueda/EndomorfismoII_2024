@@ -4,15 +4,12 @@ Bienvenidos al curso de Endomorfismo II, diseñado para estudiantes universitari
 
 ## Introducción
 
-El estudio de los endomorfismos es fundamental para entender la estructura interna de los espacios vectoriales y sus transformaciones. En Endomorfismo II, daremos un paso adelante, explorando conceptos complejos y aplicaciones en diversas áreas de las matemáticas y la física. Este curso está diseñado para construir sobre los fundamentos establecidos en Endomorfismo I, llevando a los estudiantes a un nivel de comprensión más profundo y aplicado.
-
+Bienvenidos al curso de Endomorfismo II. Aquí, exploraremos los fundamentos teóricos y prácticos detrás de los modelos de clasificación no lineales, como SVM con kernels, árboles de decisión y métodos de ensamblaje. Aprenderás a implementar, entrenar y ajustar estos modelos con datos reales, además de aplicarlos en problemas de ingeniería mecatrónica. 
 ## Objetivos
 
-El objetivo principal de este curso es proporcionar a los estudiantes una comprensión detallada de los endomorfismos y sus aplicaciones. Al finalizar el curso, los estudiantes serán capaces de:
-
-- Comprender y aplicar conceptos avanzados de endomorfismos.
-- Analizar y resolver problemas complejos relacionados con transformaciones lineales y espacios vectoriales.
-- Aplicar el conocimiento adquirido en contextos matemáticos y físicos reales.
+Explicar los principios teóricos y matemáticos subyacentes a los modelos de clasificación no lineales, incluyendo máquinas de soporte vectorial (SVM) con kernels, árboles de decisión, y métodos de ensamblaje como "boosting", "bagging", y Random Forest.
+Implementar, entrenar y ajustar modelos de clasificación no lineales utilizando conjuntos de datos reales. Esto incluye la selección y transformación de características, el ajuste de hiperparámetros y la evaluación del rendimiento del modelo utilizando métricas adecuadas.
+Aplicar técnicas de aprendizaje automático no lineal para resolver problemas de ingeniería mecatrónica, justificando la selección de modelos y técnicas específicas
 
 ## Menú del Curso
 
@@ -28,4 +25,4 @@ A continuación, encontrarás un menú con hiperenlaces que te llevarán a difer
 - [Recursos Adicionales](recursos-adicionales.md)
 - [Cómo Contribuir al Curso](cómo-contribuir-al-curso.md)
 
-Recuerda que este es solo un ejemplo básico y deberás adaptar los nombres de las secciones y los archivos según el contenido específico de tu curso. Los hiperenlaces deben ser actualizados para reflejar la estructura de directorios de tu repositorio de GitHub.
+Autor: Christian Rueda Ayala.

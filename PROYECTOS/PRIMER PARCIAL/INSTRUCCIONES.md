@@ -37,4 +37,6 @@ Presentación del artículo en el formato solicitado.
 ### Notebook de Python (30%)
 Originalidad del código presentado. Código y explicación del desarrollo de la solución.
 
-Autor: Christian Rueda Ayala.
+
+
+¡Éxitos en su trabajo!

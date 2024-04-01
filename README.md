@@ -21,6 +21,6 @@ A continuación, encontrarás un menú con hiperenlaces que te llevarán a difer
 - [Tema 2: Máquinas de Soporte Vectorial(SVM)](02_SVM)
 - [Tema 3: Árboles de Decisión (DT)](03_DT)
 - [Tema 4: Modelos Basados en Reglas](04_RB)
-- [Evaluaciones y Proyectos](evaluaciones-y-proyectos.md)
+- [Evaluaciones y Proyectos](PROYECTOS)
 
 Autor: Christian Rueda Ayala.

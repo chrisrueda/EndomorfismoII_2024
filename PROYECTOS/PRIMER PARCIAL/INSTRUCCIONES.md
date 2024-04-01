@@ -1,26 +1,40 @@
-# Curso de Endomorfismo II
+# PROYECTO DEL PRIMER PARCIAL
 
-Bienvenidos al curso de Endomorfismo II, diseñado para estudiantes universitarios interesados en profundizar sus conocimientos en matemáticas y específicamente en la teoría de endomorfismos. Este curso forma parte de una serie avanzada que busca explorar las transformaciones lineales en espacios vectoriales, con un enfoque particular en los endomorfismos.
+En la carpeta PRIMER PARCIAL se encuentran anexados dos archivos con formato .csv, pertenecientes a un conjunto de datos de entrenamiento proveniente de distintas escalas de color de imágenes. 
 
-## Introducción
+Su trabajo consiste en desarrollar una comparativa de algoritmos con la sintonización de sus hiperparámetros para lograr la máxima exactitud posible.
 
-Bienvenidos al curso de Endomorfismo II. Aquí, exploraremos los fundamentos teóricos y prácticos detrás de los modelos de clasificación no lineales, como SVM con kernels, árboles de decisión y métodos de ensamblaje. Aprenderás a implementar, entrenar y ajustar estos modelos con datos reales, además de aplicarlos en problemas de ingeniería mecatrónica. 
-## Objetivos
+## Descripción del dataset
 
--Explicar los principios teóricos y matemáticos subyacentes a los modelos de clasificación no lineales, incluyendo máquinas de soporte vectorial (SVM) con kernels, árboles de decisión, y métodos de ensamblaje como "boosting", "bagging", y Random Forest.
--Implementar, entrenar y ajustar modelos de clasificación no lineales utilizando conjuntos de datos reales. Esto incluye la selección y transformación de características, el ajuste de hiperparámetros y la evaluación del rendimiento del modelo utilizando métricas adecuadas.
+### data_train
+Son los datos de las variables independientes, colocados a modo de matriz de entrada (comunmente llamada 'X'). Consta de 300 registros y 12 columnas especificadas de la siguiente manera: 
+index: índice del registro.
+A - K: Características (Features) del conjunto de datos.
+
+### target_train
+Corresponde a las variables dependientes del problema, colocadas a modo de vector de salida (comunmente llamado 'y' o 'clases'). Consta de 300 registros y 3 clases asignadas con sus columnas especificadas de la siguiente manera:
+index: índice del registro.
+target: Clase asignada (1,2 o 3)
+
+## Entregables
+
+### Informe sobre el desarrollo del trabajo (.pdf)
+Documento en formato artículo (Se anexa ejemplo). Extensión máxima: 3 hojas.
+### Notebook de Python (.ipynb)
+Código en el que se muestre todo el trabajo desarrollado. Use adecuadamente las secciones de código y de texto. 
 -Aplicar técnicas de aprendizaje automático no lineal para resolver problemas de ingeniería mecatrónica, justificando la selección de modelos y técnicas específicas
+### Archivo del mejor modelo entrenado
+Archivo en cualquiera de los formatos posibles.
+Más información: https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/ 
 
-## Menú del Curso
+## Evaluación (100%)
+### Mejor modelo entrenado (50%)
+El archivo de mejor modelo entrenado se cargará y validará con un conjunto no visto de datos (100 registros). La métrica usada será la exactitud. La exactitud más alta alcanzada por cualquier equipo del curso será el referente para el máximo de la nota. El resto de valores logrados por los demás estudiantes se ponderarán de acuerdo a esta lógica.
 
-A continuación, encontrarás un menú con hiperenlaces que te llevarán a diferentes secciones del curso:
+### Artículo (20%)
+Presentación del artículo en el formato solicitado. 
 
-- [Introducción al Curso](#introducción)
-- [Objetivos del Curso](#objetivos)
-- [TEma 1: Modelos lineales y no lineales](01_NLM)
-- [Tema 2: Máquinas de Soporte Vectorial(SVM)](02_SVM)
-- [Tema 3: Árboles de Decisión (DT)](03_DT)
-- [Tema 4: Modelos Basados en Reglas](04_RB)
-- [Evaluaciones y Proyectos](evaluaciones-y-proyectos.md)
+### Notebook de Python (30%)
+Originalidad del código presentado. Código y explicación del desarrollo de la solución.
 
 Autor: Christian Rueda Ayala.

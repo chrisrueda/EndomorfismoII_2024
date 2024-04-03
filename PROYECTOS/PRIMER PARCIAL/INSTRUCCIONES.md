@@ -39,4 +39,8 @@ Originalidad del código presentado. Código y explicación del desarrollo de la
 
 
 
+# Evaluación del componente: Gestión del aprendizaje P1 (12%)
+## Caso práctico - 70%
+## Examen teórico - 30%
+
 ¡Éxitos en su trabajo!

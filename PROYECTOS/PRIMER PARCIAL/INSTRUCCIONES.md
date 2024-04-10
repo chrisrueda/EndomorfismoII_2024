@@ -31,6 +31,7 @@ Más información: https://machinelearningmastery.com/save-load-machine-learning
 ### Mejor modelo entrenado (50%)
 El archivo de mejor modelo entrenado se cargará y validará con un conjunto no visto de datos (100 registros). La métrica usada será la exactitud. La exactitud más alta alcanzada por cualquier equipo del curso será el referente para el máximo de la nota. El resto de valores logrados por los demás estudiantes se ponderarán de acuerdo a esta lógica.
 
+#### Ponderación Funciona - 100%   No funciona - 50%
 ### Artículo (20%)
 Presentación del artículo en el formato solicitado. 
 
@@ -42,5 +43,6 @@ Originalidad del código presentado. Código y explicación del desarrollo de la
 # Evaluación del componente: Gestión del aprendizaje P1 (12%)
 ## Caso práctico - 60%
 ## Examen teórico - 40%
+
 
 ¡Éxitos en su trabajo!

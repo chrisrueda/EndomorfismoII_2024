@@ -42,6 +42,8 @@ Originalidad del código presentado. Código y explicación del desarrollo de la
 
 # Evaluación del componente: Gestión del aprendizaje P1 (12%)
 ## Caso práctico - 60%
+
+![alt text](/home/chsrueda/UIDE/EndomorfismoII_2024/PROYECTOS/PRIMER PARCIAL/Calificaciones.PNG)
 ## Examen teórico - 40%
 
 

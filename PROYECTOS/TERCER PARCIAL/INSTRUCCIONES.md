@@ -1,6 +1,6 @@
 # PROYECTO DEL TERCER PARCIAL
 
-En la carpeta TERCER PARCIAL se encuentra anexado el archivo data.csv para el trabajo del parcial. Su trabajo consiste en aplicar técnicas de preprocesamiento, manejo de desbalance de clases, selección de características, así como el entrenamiento y evaluación de modelos de clasificación.
+En la carpeta TERCER PARCIAL se encuentra anexado el archivo data_3P.csv para el trabajo del parcial. Su trabajo consiste en aplicar técnicas de preprocesamiento, manejo de desbalance de clases, selección de características, así como el entrenamiento y evaluación de modelos de clasificación.
 
 ## Descripción del caso
 
